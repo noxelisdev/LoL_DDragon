@@ -49,7 +49,6 @@ Because of the presence of all previous patchs (which can still be downloaded fr
 - Old items icons, before the remastering of in-game shop and the remastering of all items of the game of patch 10.23, for the preseason 11 (patch released on November 11th, 2020)
 
 ## Additional notes
-- Some champions, like Fiddlesticks, are missed spelled in JSON files, which can create some problems when trying to retrieve images from data in JSONs files. [A fix is on the way](https://github.com/RiotGames/developer-relations/issues/83).
 - Others problems has been reported to Riot Games, and you can find all of them (and the 3 above too) in the [Riot Games' Developer Relations Bug Tracking about League of Legends' Data Dragon](https://github.com/RiotGames/developer-relations/labels/topic%3A%20ddrag%20lol).
 - Starting patch 13.10.1, Vietnamese language code has been changed by Riot from `vn_VN` to `vi_VN`. The `vn_VN` files has been moved to the `vi_VN` folder, including unused data. This has been [announced by Riot on Twitter](https://twitter.com/RiotGamesDevRel/status/1658949539867271171).
 
