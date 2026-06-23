@@ -59,6 +59,7 @@ This list contains patchs from actual season. For all previous patchs of all pre
 
 The date in front of each patch represents the date when the patch was pushed to this repository, not the date when it was released by Riot Games. Here's a list of all patchs of current seasons included in this repository :
 
+- (June 23rd, 2025) 16.13.1 / 26.13
 - (June 9th, 2025) 16.12.1 / 26.12
 - (May 28th, 2025) 16.11.1 / 26.11
 - (May 12th, 2025) 16.10.1 / 26.10
