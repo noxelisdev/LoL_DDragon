@@ -59,19 +59,20 @@ This list contains patchs from actual season. For all previous patchs of all pre
 
 The date in front of each patch represents the date when the patch was pushed to this repository, not the date when it was released by Riot Games. Here's a list of all patchs of current seasons included in this repository :
 
-- (June 23rd, 2025) 16.13.1 / 26.13
-- (June 9th, 2025) 16.12.1 / 26.12
-- (May 28th, 2025) 16.11.1 / 26.11
-- (May 12th, 2025) 16.10.1 / 26.10
-- (April 29th, 2025) 16.9.1 / 26.09
-- (April 14th, 2025) 16.8.1 / 26.08
-- (March 31st, 2025) 16.7.1 / 26.07
-- (March 17th, 2025) 16.6.1 / 26.06
-- (March 3rd, 2025) 16.5.1 / 26.05
-- (February 18th, 2025) 16.4.1 / 26.04
-- (February 3rd, 2025) 16.3.1 / 26.03
-- (January 22nd, 2025) 16.2.1 / 26.02
-- (January 7th, 2025) 16.1.1 / 26.01
+- (July 14th, 2026) 16.14.1 / 26.14
+- (June 23rd, 2026) 16.13.1 / 26.13
+- (June 9th, 2026) 16.12.1 / 26.12
+- (May 28th, 2026) 16.11.1 / 26.11
+- (May 12th, 2026) 16.10.1 / 26.10
+- (April 29th, 2026) 16.9.1 / 26.09
+- (April 14th, 2026) 16.8.1 / 26.08
+- (March 31st, 2026) 16.7.1 / 26.07
+- (March 17th, 2026) 16.6.1 / 26.06
+- (March 3rd, 2026) 16.5.1 / 26.05
+- (February 18th, 2026) 16.4.1 / 26.04
+- (February 3rd, 2026) 16.3.1 / 26.03
+- (January 22nd, 2026) 16.2.1 / 26.02
+- (January 7th, 2026) 16.1.1 / 26.01
 
 ## Missing patchs for the current season
 There is currently no missing patch for the current season.
